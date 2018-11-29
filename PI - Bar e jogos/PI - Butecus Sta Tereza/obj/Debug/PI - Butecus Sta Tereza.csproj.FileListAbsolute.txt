@@ -1,0 +1,117 @@
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\ISAIASDEFRANCALEITE\Desktop\BAR\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\1050481813049\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\1050481813049\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.AddOrders.resources
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.dll
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.xml
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CopyComplete
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.ResolveComReference.cache
+C:\Users\Isaías\Desktop\Banco de Dados\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Report.resources
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.ResolveComReference.cache
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.AddOrders.resources
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Report.resources
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.dll
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.xml
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\weber\OneDrive\Área de Trabalho\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CopyComplete
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.dll
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.xml
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.ResolveComReference.cache
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.AddOrders.resources
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Report.resources
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CopyComplete
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\Isaías\Downloads\Compressed\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe.config
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\PI - Butecus Sta Tereza.pdb
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.dll
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\itextsharp.xml
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csprojAssemblyReference.cache
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.ResolveComReference.cache
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.AddOrders.resources
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.LoginSystem.resources
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.MenuSystem.resources
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Report.resources
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI___Butecus_Sta_Tereza.Properties.Resources.resources
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.GenerateResource.cache
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CoreCompileInputs.cache
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.csproj.CopyComplete
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.exe
+C:\Users\Isaías\Desktop\PI - Butecus Sta Tereza\PI - Butecus Sta Tereza\obj\Debug\PI - Butecus Sta Tereza.pdb
